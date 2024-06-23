@@ -47,6 +47,8 @@ streamlit run app.py
 ```
 
 Project Demo
+
+
 <img width="523" alt="Screenshot 2024-06-23 at 12 43 41 PM" src="https://github.com/ahmedashfaq850/End-to-End-Multi-Language-CNIC-Card-Info-Extractor-LLM-Application-Using-Gemini-Pro-Vision/assets/74646219/6c4dad5c-458c-4255-8fd4-9aaf880afe56">
 
 
